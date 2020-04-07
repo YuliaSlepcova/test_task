@@ -1,0 +1,72 @@
+
+@font-face {
+    font-family: 'Bebas';
+    src: url('3979.ttf');
+}
+table {
+    border-collapse: collapse;
+}
+form {
+    border: 8px solid lightgrey;
+    background-color: hsl(0, 12%, 97%);
+    width: 360px;
+    height: 450px;
+    padding: 25px;
+}
+
+.label  {
+    text-align: left;
+    width: 150px;
+    font-family: 'Bebas';
+    color: gray;    
+}
+.table-td-2 {
+    text-align: right;
+    width: 150px;
+    padding: 20px;
+    color: #8f8b8b;
+}
+.table-td-3 {
+    text-align: center;
+    width: 150px;
+    padding: 20px;
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+}
+.table-td-4 {
+    text-align: center;
+    width: 150px;
+    padding: 20px;
+}
+.table-tr:hover {
+    background-color: #eaf3f8;
+    border: 1px solid lightskyblue;
+}
+select {
+    width: 50px;
+    height: 25px;
+}
+.label1{
+    font-size: 13px;
+    font-weight: 540;
+}
+.font-total {
+    font-size: 20px;
+    font-family: 'Bebas';
+    color: gray;
+}
+.button {
+    background-color: limegreen;
+    width: 150px;
+    height: 40px;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.font-plan {
+    color: #389fdf;
+}
+
+
+
+
